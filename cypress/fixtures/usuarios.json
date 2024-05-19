@@ -1,0 +1,15 @@
+    {
+    "usuarios":[ 
+    {
+    "name": "Edu Graff",
+    "email": "edu@cypress.io",
+    "password": "vacada12"
+    },
+    {
+    "name": "addo Graff",
+    "email": "eaddo@cypress.io",
+    "password": "vacada13"
+    }
+    ]
+
+    }

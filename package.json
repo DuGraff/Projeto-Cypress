@@ -1,0 +1,21 @@
+{
+  "name": "b2cpro",
+  "version": "1.0.0",
+  "description": "Projeto B2C Profissional .",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx open cypress "
+  },
+  "repository": {
+    "type": "git",
+    "url": "dugraff"
+  },
+  "author": "Eduardo Graff Bordignon",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.4"
+  },
+  "dependencies": {
+    "mochawesome": "^7.1.3"
+  }
+}
